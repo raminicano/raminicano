@@ -42,7 +42,8 @@ Hi! I like analyzing data, so I'm trying to become a developer. :)
  ## Problem Solving :muscle: 
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=raminicano)](https://solved.ac/raminicano)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=raminicano)](https://solved.ac/raminicano/)<br/>
+ 
 
 <br/><br/>
   
