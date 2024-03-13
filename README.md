@@ -47,10 +47,6 @@ Hi! I like analyzing data, so I'm trying to become a developer. :)
 
 <br/><br/>
   
-<!--깃허브 -->
-## Github stats :purple_heart:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raminicano&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
   
  
 </div>
