@@ -94,12 +94,13 @@
 <div style="display:flex; flex-direction:row;">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
  <br>
+ <img src="https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=nodejs&logoColor=white"> 
  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
  <br>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -108,18 +109,18 @@
  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=ec2&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslamdba&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=awss3&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=apigateway&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=Amazon API Gateway&logoColor=white">
  <br>
  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
- <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit&logoColor=white">
+ <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </div> 
  
  
