@@ -90,7 +90,7 @@
  
  <!--기술스택-->
  ## 🔨 Skill 🔨
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raminicano&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raminicano&hide=jupyter%20notebook,html,ejs,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:flex; flex-direction:row;">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
