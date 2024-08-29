@@ -66,6 +66,8 @@
 
 ## 🏆 Award 🏆
 
+🥉 `2024.08` 한국소프트웨어산업협회 성과 공유 컨퍼런스 장려상
+
 🏅 `2024.01` TAVE 개발 동아리 연합 프로젝트 대상 수상
 
 🥈 `2023.09 – 2023.10` 신한 빅데이터 해커톤 우수상
@@ -95,6 +97,7 @@
 <div style="display:flex; flex-direction:row;">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
  <img src="https://img.shields.io/badge/java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
  <br>
  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> 
