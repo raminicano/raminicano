@@ -10,7 +10,7 @@
 
 
 <!-- [![JIHO's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raminicano&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/raminicano/github-readme-stats) -->
-[![YunJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=raminicano&theme=nord&hide_border=true&count_private=true)](https://github.com/raminicano/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=raminicano)](https://solved.ac/raminicano)
+[![YunJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=raminicano&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=raminicano)](https://solved.ac/raminicano)
 
  
 <!--  <a href="https://github.com/raminicano">
